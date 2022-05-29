@@ -19,7 +19,7 @@ Have added sample blogs and sample users for default use case.
 
 PFA postman collection for reference of APIs used for serving forntend app.
 
-# 
+
 ## Application Description:
 
 ### Backed
