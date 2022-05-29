@@ -22,7 +22,7 @@ PFA postman collection for reference of APIs used for serving forntend app.
 
 ## Application Description:
 
-### Backed
+### Backed [video](https://youtu.be/ed-l34SXUZc)
 
 url : 
     https://blog-springboot-suyash.herokuapp.com/
@@ -33,7 +33,7 @@ Command:
 
     git push heroku master
 
-### Frontend
+### Frontend [video](https://youtu.be/c_gPkblHAik)
 
 url : 
     https://suyash-blog-react.herokuapp.com/
