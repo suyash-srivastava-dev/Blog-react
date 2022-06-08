@@ -1,6 +1,6 @@
 # BLOGS APP
 
-
+**This App is deployed over 2 different heroku servers, so refresh multiple times as project is most likely to be sleeping**
 
 ## Application Details:
 
@@ -22,7 +22,7 @@ PFA postman collection for reference of APIs used for serving forntend app.
 
 ## Application Description:
 
-### Backed [video](https://youtu.be/ed-l34SXUZc)
+### Backed [Youtube video](https://youtu.be/ed-l34SXUZc)
 
 url : 
     https://blog-springboot-suyash.herokuapp.com/
@@ -33,7 +33,7 @@ Command:
 
     git push heroku master
 
-### Frontend [video](https://youtu.be/c_gPkblHAik)
+### Frontend [Youtube video](https://youtu.be/c_gPkblHAik)
 
 url : 
     https://suyash-blog-react.herokuapp.com/
